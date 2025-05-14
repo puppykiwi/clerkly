@@ -1,3 +1,8 @@
+<?php
+// Include the header
+include_once 'header.php';
+?>
+
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
@@ -85,3 +90,8 @@
     <!-- /.content -->
   </div>
   <!-- /.content-wrapper -->
+
+<?php
+// Include the footer
+include_once 'footer.php';
+?>
